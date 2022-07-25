@@ -1,0 +1,45 @@
+.page{
+	width: 100%;
+	height: auto;
+	background-color: yellow;
+}
+.header{
+	background-color: red;
+}
+.header h2{
+	font-size: 200px;
+	;
+}
+.content{
+	border: dotted;
+	float: left;
+	width: 100%;
+}
+.enterbox{
+	max-width: 100px;
+	height: auto;
+	float: left;
+	padding: 20px;
+	border: 2px solid;
+}
+.entry{
+	float: center;
+	padding: 20px 40px;
+	border: 2px solid;
+	width: 20px;
+}
+.sidebar{
+	max-width: 100px;
+	height: 188px;
+	float: right;
+	padding: 20px;
+	border: 2px solid;
+}
+.sidebar1{
+	float: center;
+	padding: 20px 40px;
+}
+.footer{
+	padding-left: 550px;
+	font-size: 20px;
+}
